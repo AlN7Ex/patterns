@@ -1,4 +1,4 @@
-package patterns.behavioral.light;
+package patterns.behavioral.state;
 
 import patterns.behavioral.state.states.LightState;
 

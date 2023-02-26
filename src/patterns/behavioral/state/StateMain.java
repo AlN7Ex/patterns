@@ -1,6 +1,5 @@
 package patterns.behavioral.state;
 
-import patterns.behavioral.light.Light;
 import patterns.behavioral.state.states.OffLightState;
 import patterns.behavioral.state.states.OnLightState;
 
